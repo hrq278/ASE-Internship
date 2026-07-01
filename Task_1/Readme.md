@@ -105,3 +105,13 @@ The management team now requires a simple web interface where newly enrolled int
 - UI Design – 10
 - Display of Internship Information – 10
 - Styling & Code Quality – 10
+
+
+## Screenshot of Completed Task (Senario 2 frontend)
+<br>
+
+![Screenshot of task completion](./Task_ScreenShots/frontend2.png)
+<br>
+
+![Screenshot of task completion](./Task_ScreenShots/frontend1.png)
+
