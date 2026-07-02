@@ -46,8 +46,5 @@ DevOps/
 
 ## GitHub Repository Link
 
+https://github.com/hrq278/ASE-Internship/tree/main/Task_2/DevOps
 
-
-## Notes
-
-This README is prepared for the submitted Scenario 2 DevOps work and can be updated with the final student name and repository URL before submission.
